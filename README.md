@@ -5,7 +5,7 @@
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://www.svgrepo.com/show/508908/django.svg" width="30px"></code> 
-<code><img src="[[[[https://www.svgrepo.com/show/508908/django.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/2048px-Python_icon_%28black_and_white%29.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/2048px-Python_icon_%28black_and_white%29.svg.png)](https://cdn-icons-png.flaticon.com/512/5968/5968286.png)](https://cdn-icons-png.flaticon.com/512/5968/5968286.png)" width="30px"></code>
+<code><img src="https://img.icons8.com/ios7/600/FFFFFF/python.png" width="30px"></code>
 <!--<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
