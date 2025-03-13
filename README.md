@@ -7,7 +7,7 @@
 <code><img src="https://img.icons8.com/ios7/600/FFFFFF/python.png" width="30px"></code>
 <code><img src="https://www.svgrepo.com/show/508908/django.svg" width="30px"></code> 
 
-<code><img src="https://www.svgrepo.com/show/342053/mysql.svg" width="30px"></code>
+7<code><img src="https://www.svgrepo.com/show/342053/mysql.svg" width="70px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 <!--<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
