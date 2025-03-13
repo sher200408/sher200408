@@ -7,9 +7,11 @@
 <code><img src="https://img.icons8.com/ios7/600/FFFFFF/python.png" width="30px"></code>
 <code><img src="https://www.svgrepo.com/show/508908/django.svg" width="30px"></code> 
 
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
+<code><img src="[[https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png](https://www.svgrepo.com/show/508802/dbs-mysql.svg)](https://www.svgrepo.com/show/508802/dbs-mysql.svg)" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
-<!--<code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
+<!--<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png" width="30px"></code>
 
