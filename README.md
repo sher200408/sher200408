@@ -8,7 +8,7 @@
 <code><img src="https://www.svgrepo.com/show/508908/django.svg" width="30px"></code> 
 
 <code><img src="https://www.svgrepo.com/show/342053/mysql.svg" width="50px"></code>
-<code><img src="https://icons.veryicon.com/png/o/system/asset-management-system/postgresql-2.png " width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeYkGr_0XFklF2MwlGDmGcd5QLC3KWzI5OXw&s" width="30px"></code>
 <!--<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
